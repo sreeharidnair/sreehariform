@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sreehariform/static/css/main.e250fb9b.chunk.css",
+    "main.js": "/sreehariform/static/js/main.07b54ecb.chunk.js",
+    "main.js.map": "/sreehariform/static/js/main.07b54ecb.chunk.js.map",
+    "runtime-main.js": "/sreehariform/static/js/runtime-main.249c596b.js",
+    "runtime-main.js.map": "/sreehariform/static/js/runtime-main.249c596b.js.map",
+    "static/js/2.36150216.chunk.js": "/sreehariform/static/js/2.36150216.chunk.js",
+    "static/js/2.36150216.chunk.js.map": "/sreehariform/static/js/2.36150216.chunk.js.map",
+    "static/js/3.b4c80b62.chunk.js": "/sreehariform/static/js/3.b4c80b62.chunk.js",
+    "static/js/3.b4c80b62.chunk.js.map": "/sreehariform/static/js/3.b4c80b62.chunk.js.map",
+    "index.html": "/sreehariform/index.html",
+    "static/css/main.e250fb9b.chunk.css.map": "/sreehariform/static/css/main.e250fb9b.chunk.css.map",
+    "static/js/2.36150216.chunk.js.LICENSE.txt": "/sreehariform/static/js/2.36150216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.249c596b.js",
+    "static/js/2.36150216.chunk.js",
+    "static/css/main.e250fb9b.chunk.css",
+    "static/js/main.07b54ecb.chunk.js"
+  ]
+}
